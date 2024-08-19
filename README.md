@@ -1,5 +1,8 @@
 # Quiz App
 
+![quizapp](https://github.com/user-attachments/assets/d1262cb9-d6ad-493b-9ca1-d7c8233efee2)
+
+
 A simple quiz application built using HTML, CSS, and JavaScript that fetches questions from an external API and allows users to answer them with immediate feedback on correctness. The app tracks the score and displays it at the end of the quiz.
 
 ## Features
