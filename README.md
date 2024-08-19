@@ -29,7 +29,7 @@ A simple quiz application built using HTML, CSS, and JavaScript that fetches que
 ### API Integration
 This project uses the QuizAPI.io to fetch quiz questions. You can modify the API URL in the script.js file to change the difficulty, category, or number of questions.
    ```bash
-const apiUrl = "https://quizapi.io/api/v1/questions?apiKey=YOUR_API_KEY&difficulty=Easy&limit=5";
+   const apiUrl = "https://quizapi.io/api/v1/questions?apiKey=YOUR_API_KEY&difficulty=Easy&limit=5";
 
 
 Replace YOUR_API_KEY with your QuizAPI.io key to fetch quiz questions.
